@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/weather_info_text"
         android:layout_gravity="end"
-        android:textColor="20sp"
+        android:textColor="#fff"
         android:textSize="20sp"/>
 
 
